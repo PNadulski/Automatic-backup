@@ -1,0 +1,10 @@
+Nadulski
+QAZwsx12#$
+cd KopiaZapasowa/Automatyczna/
+
+del KopiaZapasowa2Godzinna.zip
+ren KopiaZapasowaGodzinna.zip KopiaZapasowa2Godzinna.zip
+put *.zip
+ren 000KopiaAutomatyczna.zip KopiaZapasowaGodzinna.zip
+disconnect
+quit

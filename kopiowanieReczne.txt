@@ -1,0 +1,12 @@
+Nadulski
+QAZwsx12#$
+cd KopiaZapasowa/Reczna/
+
+del KopiaZapasowa2.zip
+ren KopiaZapasowa1.zip KopiaZapasowa2.zip
+del KopiaZapasowa1.zip
+
+put *.zip
+ren 000KopiaReczna.zip KopiaZapasowa1.zip
+disconnect
+quit
